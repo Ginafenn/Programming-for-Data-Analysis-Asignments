@@ -2,6 +2,7 @@
   
  Author : Regina Fennessy
  
+-------------------------------------------------------------------------------------------------------
 
 # Contents :
 
@@ -9,25 +10,31 @@
 - Readme file : Doc outlining projects
 - Juptyer Notebook : Code for projects
 
+ ------------------------------------------------------------------------------------------------------
  
  # Libraries Used :
  
  - Pandas is an open source python package that is used for data anaylsis and machine learning
  - Numpy is a Python programming language used for working with arrays
  - Seaborn library uses Matplotlib to plot graphs and visuals random distribution 
+ - Matplotlib library is used for creating static and interative visualisations
+ - Statistics provides functions for creating mathematical statistics of numeric data.
 
 
-
+-------------------------------------------------------------------------------------------------------
+ 
  # Project :
  
  The real world phenomenon data set I have choosen is the Titanic data set. 
  I will be using 4 variables to investigate their likely distrubtions and how they relate to each other.
  A simulated data set is created and a camparsion is made between both data sets
 
+ Using Jupyter Notebook a .ipynb file will be created to investigate the chosen dataset Titanic.
 
+-------------------------------------------------------------------------------------------------------
 
-
- # References : 
+# References : 
+ 
 1. https://www.w3schools.com/python/numpy/numpy_intro.asp
 
 2. https://pandas.pydata.org/
@@ -47,6 +54,8 @@
 9. https://www.codingninjas.com/codestudio/library/intro-to-titanic-dataset-and-data-analysis
 
 10. https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv
+
+11. https://docs.python.org/3/library/statistics.html
 
 
  
